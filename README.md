@@ -1,4 +1,6 @@
-# Blender models
+# Blender Playground
+
+## Introduction
 
 This is just a repo to fool around with Blender 3D modelling.
 
