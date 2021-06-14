@@ -32,6 +32,7 @@ This is just a repo to fool around with Blender 3D modelling.
 ### Useful addons
 
 * [MACHIN3tools](https://gumroad.com/l/machin3tools)
+* [MACHINE3tools docs](https://machin3.io/MACHIN3tools/docs/)
 
 ### Courses
 
