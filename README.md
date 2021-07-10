@@ -10,7 +10,7 @@ This is just a repo to fool around with Blender 3D modelling.
 
 * CTRL+S: cursor control options
 * A: select all
-* CTRL+A: add mesh primitive
+* SHIFT+A: add mesh primitive
 * G(+z|y|z): transform position (along axis)
 * I(+x|y|z): inset (along axis)
 * CTRL+B: bevel (scroll up or down to increase bevel)
