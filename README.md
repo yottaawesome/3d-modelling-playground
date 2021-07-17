@@ -25,6 +25,8 @@ This is just a repo to fool around with Blender 3D modelling.
 * T: open left-hand toolbar
 * SHIFT+Z: wireframe mode
 * CTRL+M(z|x|y): mirror (along axis)
+* SHIFT+D: copy
+* ALT+D: copy linked
 
 ### MACHIN3tools
 
