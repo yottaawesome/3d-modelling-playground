@@ -20,6 +20,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+Y: redo
 * N: bring up right-side toolbar
 * T: open left-hand toolbar
+* SHIFT+Z: wireframe mode
 
 ### MACHIN3tools
 
