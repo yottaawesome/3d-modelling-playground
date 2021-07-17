@@ -18,6 +18,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * W: change select tool type (circle, square, lasoo, etc)
 * CTRL+Z: undo
 * CTRL+Y: redo
+* N: bring up right-side toolbar 
 
 ### MACHIN3tools
 
