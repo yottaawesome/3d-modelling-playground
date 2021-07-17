@@ -27,6 +27,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+M(z|x|y): mirror (along axis)
 * SHIFT+D: copy
 * ALT+D: copy linked
+* CTRL+D: link/transfer menu
 
 ### MACHIN3tools
 
