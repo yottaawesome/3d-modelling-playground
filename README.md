@@ -11,7 +11,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+S: cursor control options
 * A: select all
 * SHIFT+A: add mesh primitive
-* G(+z|y|z): transform position (along axis)
+* G((+z|y|z)(+SHIFT)): transform position (along axis / excluding axis )
 * I(+x|y|z): inset (along axis)
 * CTRL+B: bevel (scroll up or down to increase bevel)
 * E(+x|y|z): extrude (along axis)
