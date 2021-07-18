@@ -29,6 +29,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * ALT+D: copy linked
 * CTRL+D: link/transfer menu
 * CTRL+P: (with multiple selected scene objects) assign objects to children of a parent
+* Z: render menu
 
 #### Camera/viewport
 
