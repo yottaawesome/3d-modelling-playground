@@ -29,6 +29,14 @@ This is just a repo to fool around with Blender 3D modelling.
 * ALT+D: copy linked
 * CTRL+D: link/transfer menu
 
+#### Camera/viewport
+
+* MMB: rotate viewport
+* SHIFT+MMB: pan viewport
+* SHIFT+~: WASD mode
+* NUMPAD 0: look through camera (camera mode)
+* SHIFT+~ (in camera mode): manipulate the camera in FPS mode
+
 ### MACHIN3tools
 
 * Tab: change mode
