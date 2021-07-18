@@ -37,6 +37,10 @@ This is just a repo to fool around with Blender 3D modelling.
 * SHIFT+~: WASD mode
 * NUMPAD 0: look through camera (camera mode)
 * SHIFT+~ (in camera mode): manipulate the camera in FPS mode
+* NUMPAD 1: look down +Y axis
+* NUMPAD 3: look down -X axis
+* NUMPAD 7: look down -Z axis
+* NUMPAD 9: rotate camera 190 degrees, effectively flipping it to look down the opposite axis
 
 ### MACHIN3tools
 
