@@ -30,6 +30,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+D: link/transfer menu
 * CTRL+P: (with multiple selected scene objects) assign objects to children of a parent
 * Z: render menu
+* NUMPAD 5: orthographic mode
 
 #### Camera/viewport
 
