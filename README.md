@@ -31,6 +31,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+P: (with multiple selected scene objects) assign objects to children of a parent
 * Z: render menu
 * NUMPAD 5: orthographic mode
+* ALT+LEFT-MOUSE-CLICK: select vertex or edge loop
 
 #### Camera/viewport
 
