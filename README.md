@@ -34,6 +34,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * ALT+LEFT-MOUSE-CLICK: select vertex or edge loop
 * CTRL+SHIFT+B: bevel a vertex in edit mode
 * CTRL+(1|2): add subdivision modifier
+* CTRL+R: add loop cut
 
 #### Camera/viewport
 
