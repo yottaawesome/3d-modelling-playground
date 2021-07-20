@@ -35,6 +35,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+SHIFT+B: bevel a vertex in edit mode
 * CTRL+(1|2): add subdivision modifier
 * CTRL+R: add loop cut
+* SHIFT+S: snap pie menu
 
 #### Camera/viewport
 
