@@ -36,6 +36,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+(1|2): add subdivision modifier
 * CTRL+R: add loop cut
 * SHIFT+S: snap pie menu
+* CTRL+X: dissolve edge
 
 #### Camera/viewport
 
