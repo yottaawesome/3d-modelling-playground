@@ -59,6 +59,7 @@ This is just a repo to fool around with Blender 3D modelling.
 
 * Cursor was accidentally misplaced: `Shift+S` -> `Cursor to World Origin`
 * Shading goes ballistic with modifiers for bevels and difference bools: always ensure difference bool modifiers are placed above difference bools in the modifier stack
+* Bevel does not working some difference bools: disable clamp overlap option
 
 ## Additional resources
 
