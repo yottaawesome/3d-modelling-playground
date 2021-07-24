@@ -12,9 +12,9 @@ This is just a repo to fool around with Blender 3D modelling.
 * A: select all
 * SHIFT+A: add mesh primitive
 * G((+z|y|z)(+SHIFT)): transform position (along axis / excluding axis)
-* R(+z|y|z): rotate (along axis)
-* S(+z|y|z): scale (along axis)
-* I(+x|y|z): inset (along axis)
+* R(+z|y|z): rotate (along axis, double press axis for local axis)
+* S(+z|y|z): scale (along axis, double press axis for local axis)
+* I(+x|y|z): inset (along axis, double press axis for local axis)
 * CTRL+A: apply menu
 * CTRL+B: bevel (scroll up or down to increase bevel)
 * E(+x|y|z): extrude (along axis)
@@ -42,6 +42,8 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+(numpad/): slice on particular model through the second
 * CTRL+(numpad+): union boolean between two primitives
 * H: hide selected object
+* L: select all linked over cursor
+* P: separate by selection
 
 #### Camera/viewport
 
