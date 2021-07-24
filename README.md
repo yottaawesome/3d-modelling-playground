@@ -37,6 +37,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+R: add loop cut
 * SHIFT+S: snap pie menu
 * CTRL+X: dissolve edge
+* L: select linked geometry
 
 #### Camera/viewport
 
