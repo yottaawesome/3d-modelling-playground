@@ -38,6 +38,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * SHIFT+S: snap pie menu
 * CTRL+X: dissolve edge
 * L: select linked geometry
+* G+G: slide vertex along edge
 
 #### Camera/viewport
 
