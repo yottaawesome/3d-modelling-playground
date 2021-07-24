@@ -42,6 +42,8 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+(numpad/): slice on particular model through the second
 * CTRL+(numpad+): union boolean between two primitives
 * H: hide selected object
+* L: select all linked over cursor
+* P: separate by selection
 
 #### Camera/viewport
 
