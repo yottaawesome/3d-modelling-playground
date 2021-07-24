@@ -41,6 +41,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * G+G: slide vertex along edge
 * CTRL+(numpad/): slice on particular model through the second
 * CTRL+(numpad+): union boolean between two primitives
+* H: hide selected object
 
 #### Camera/viewport
 
