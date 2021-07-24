@@ -24,7 +24,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * N: bring up right-side toolbar
 * T: open left-hand toolbar
 * SHIFT+Z: wireframe mode
-* CTRL+M(z|x|y): mirror (along axis)
+* CTRL+M+(z|x|y): mirror (along axis)
 * SHIFT+D: copy
 * ALT+D: copy linked
 * CTRL+D: link/transfer menu
@@ -36,6 +36,9 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+(1|2): add subdivision modifier
 * CTRL+R: add loop cut
 * SHIFT+S: snap pie menu
+* CTRL+X: dissolve edge
+* L: select linked geometry
+* G+G: slide vertex along edge
 
 #### Camera/viewport
 
@@ -44,9 +47,9 @@ This is just a repo to fool around with Blender 3D modelling.
 * SHIFT+~: WASD mode
 * NUMPAD 0: look through camera (camera mode)
 * SHIFT+~ (in camera mode): manipulate the camera in FPS mode
-* NUMPAD 1: look down +Y axis
-* NUMPAD 3: look down -X axis
-* NUMPAD 7: look down -Z axis
+* NUMPAD 1(+CTRL): look down +Y axis (CTRL inverts)
+* NUMPAD 3(+CTRL): look down -X axis (CTRL inverts)
+* NUMPAD 7(+CTRL): look down -Z axis (CTRL inverts)
 * NUMPAD 9: rotate camera 190 degrees, effectively flipping it to look down the opposite axis
 
 ### MACHIN3tools
@@ -56,6 +59,8 @@ This is just a repo to fool around with Blender 3D modelling.
 ## Common problems
 
 * Cursor was accidentally misplaced: `Shift+S` -> `Cursor to World Origin`
+* Shading goes ballistic with modifiers for bevels and difference bools: always ensure difference bool modifiers are placed above difference bools in the modifier stack
+* Bevel does not working some difference bools: disable clamp overlap option
 
 ## Additional resources
 
