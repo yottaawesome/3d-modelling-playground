@@ -39,6 +39,7 @@ This is just a repo to fool around with Blender 3D modelling.
 * CTRL+X: dissolve edge
 * L: select linked geometry
 * G+G: slide vertex along edge
+* CTRL+/(numpad): slice on particular model through the second
 
 #### Camera/viewport
 
